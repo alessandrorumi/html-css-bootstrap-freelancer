@@ -62,3 +62,10 @@ header .row {
   min-height: 30rem;
 }
 
+.contact-me {
+  background-color: #fff;
+}
+
+.contact-me .row {
+  min-height: 30rem;
+}

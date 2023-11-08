@@ -11,3 +11,11 @@ header {
 header .row {
   min-height: 6rem;
 }
+
+.jumbotron {
+  background-color: #1abc9c;
+}
+
+.jumbotron .row {
+  min-height: 30rem;
+}

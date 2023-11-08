@@ -53,3 +53,12 @@ header .row {
 .g-col-6 {
   background-color: #1abc9c;
 }
+
+.about {
+  background-color: #1abc9c;
+}
+
+.about .row {
+  min-height: 30rem;
+}
+

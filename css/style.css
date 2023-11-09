@@ -1,8 +1,4 @@
-/* DEBUG */
-
-[class*= "col"] {
-  border: 1px solid rgb(239, 7, 135);
-} 
+/* Stili Generali */
 
 h1,
 h4,
@@ -163,8 +159,21 @@ h6 {
   background-color: #3a546d;
 }
 
-.social .row {
-  min-height: 20rem;
+.my_title {
+  margin-bottom: .5rem;
+}
+
+.my_content {
+  color: #fff;
+}
+
+#around-the-web {
+  display: flex;
+  justify-content: space-around;
+}
+
+#my_conpany {
+  color: #1abc9c;
 }
 
 .copyright {

@@ -33,9 +33,23 @@ h6 {
   background-color: #1abc9c;
 }
 
-.jumbotron .row {
-  min-height: 30rem;
+.fa-star {
+  font-size: 1.75rem;
 }
+
+.jumbotron hr {
+  height: .25rem;
+  background-color: white;
+  border-radius: .2rem;
+  opacity: 1;
+  border-top: 0;
+}
+
+.jumbotron h6 {
+  font-weight: normal;
+}
+
+
 
 .cabin {
   background-color: #ba4b63;

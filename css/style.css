@@ -63,34 +63,7 @@ h6 {
 
 .portfolio img {
   width: 100%;
-}
-
-.cabin {
-  background-color: #ba4b63;
-}
-
-.cake {
-  background-color: #1ea4b6;  
-}
-
-.circus {
-  background-color: #140f0f;  
-}
-
-.joystick {
-  background-color: #1c83c1;  
-}
-
-.safe {
-  background-color: #0e38b5;
-}
-
-.submarine {
-  background-color: #ccb2a3;
-}
-
-.g-col-6 {
-  background-color: #1abc9c;
+  border-radius: 1rem;
 }
 
 /* About */
